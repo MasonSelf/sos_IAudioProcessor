@@ -4,10 +4,10 @@
 
 BEGIN_JUCE_MODULE_DECLARATION
 
-      ID:               IAudioProcessorModule
+      ID:               sos_IAudioProcessor
       vendor:           Mason Self
       version:          0.0.1
-      name:             IAudioProcessorModule
+      name:             sos_IAudioProcessor
       description:      IAudioProcessorModule
       license:          GPL/Commercial
       dependencies:     juce_audio_processors
